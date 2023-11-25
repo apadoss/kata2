@@ -8,6 +8,14 @@ import java.util.List;
 public class CsvFileApplicationLoader implements ApplicationLoader{
     private File file;
 
+    public CsvFileApplicationLoader(File file) {
+        this.file = file;
+    }
+
+    public static ApplicationLoader with(File file) {
+        return new CsvFileApplicationLoader(file);
+    }
+
     @Override
     public List<Application> load() {
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {

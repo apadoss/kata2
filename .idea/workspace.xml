@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db142686-ada1-4f45-83d4-d887beb71cd9" name="Changes" comment="ApplicationStatistics interface created.">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFileApplicationLoader.java" afterDir="false" />
+    <list default="true" id="db142686-ada1-4f45-83d4-d887beb71cd9" name="Changes" comment="CategoryApplicationStatistics class created.">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFileApplicationLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFileApplicationLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,28 @@
       <option name="project" value="LOCAL" />
       <updated>1700932685061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CsvFileApplicationLoader class created.">
+      <created>1700932919860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700932919860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="RatingApplicationStatistics class created.">
+      <created>1700933047222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700933047222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CategoryApplicationStatistics class created.">
+      <created>1700933125401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700933125401</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +103,9 @@
     <MESSAGE value="Application record created." />
     <MESSAGE value="ApplicationLoader interface created." />
     <MESSAGE value="ApplicationStatistics interface created." />
-    <option name="LAST_COMMIT_MESSAGE" value="ApplicationStatistics interface created." />
+    <MESSAGE value="CsvFileApplicationLoader class created." />
+    <MESSAGE value="RatingApplicationStatistics class created." />
+    <MESSAGE value="CategoryApplicationStatistics class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="CategoryApplicationStatistics class created." />
   </component>
 </project>
