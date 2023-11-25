@@ -10,7 +10,7 @@ public class Main {
         List<Application> applications = CsvFileApplicationLoader
                 .with(new File("googleplaystore.csv"))
                 .load();
-        RatingApplicationStatistics ratingApplicationStatistics = new RatingApplicationStatistics();
+        ApplicationStatistics ratingApplicationStatistics = new RatingApplicationStatistics();
         Map<String, Integer> ratingMap = ratingApplicationStatistics.calculate(applications);
         for (String key : ratingMap.keySet()) {
             System.out.println(key + " - " + ratingMap.get(key));

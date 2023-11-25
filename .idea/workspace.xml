@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db142686-ada1-4f45-83d4-d887beb71cd9" name="Changes" comment="CategoryApplicationStatistics class created.">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFileApplicationLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFileApplicationLoader.java" afterDir="false" />
-    </list>
+    <list default="true" id="db142686-ada1-4f45-83d4-d887beb71cd9" name="Changes" comment="Main created." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +31,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ale\IdeaProjects\kata2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700933125401</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Main created.">
+      <created>1700933445767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700933445767</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +115,7 @@
     <MESSAGE value="CsvFileApplicationLoader class created." />
     <MESSAGE value="RatingApplicationStatistics class created." />
     <MESSAGE value="CategoryApplicationStatistics class created." />
-    <option name="LAST_COMMIT_MESSAGE" value="CategoryApplicationStatistics class created." />
+    <MESSAGE value="Main created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Main created." />
   </component>
 </project>
